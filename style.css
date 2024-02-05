@@ -1,14 +1,14 @@
 @font-face {
     font-family: new;
-    src: url(/NeueHaasDisplayLight.ttf);
+    src: url(/NeueHaasDisplayLight.woff2);
 }
 @font-face {
     font-family: new2;
-    src: url(/NeueHaasDisplayMediu.ttf);
+    src: url(/NeueHaasDisplayMediu.woff2);
 }
 @font-face {
     font-family: new3;
-    src: url(/NeueHaasDisplayRoman.ttf);
+    src: url(/NeueHaasDisplayRoman.woff2);
 }
 *{
     margin:0;
