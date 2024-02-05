@@ -1,14 +1,14 @@
 @font-face {
     font-family: new;
-    src: url(/NeueHaasDisplayLight.ttf);
+    src: url(NeueHaasDisplayLight.ttf);
 }
 @font-face {
     font-family: new2;
-    src: url(/NeueHaasDisplayMediu.ttf);
+    src: url(NeueHaasDisplayMediu.ttf);
 }
 @font-face {
     font-family: new3;
-    src: url(/NeueHaasDisplayRoman.ttf);
+    src: url(NeueHaasDisplayRoman.ttf);
 }
 *{
     margin:0;
@@ -332,8 +332,8 @@ video{
     font-weight: 100; 
     position: relative;
 }
-p{
-    background-image: url(/64d3dd9edfb41666c35b15d1_Holding_thumb-p-500.webp);
+.right1 p{
+    background-image: url(64d3dd9edfb41666c35b15d1_Holding_thumb-p-500.webp);
     background-position: center;
     background-size: cover;
     height: 45%;
