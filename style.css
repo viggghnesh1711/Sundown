@@ -587,7 +587,7 @@ video{
     border-radius: 2vw;
     position: absolute;
     height:100%;
-    background: url(/64d3dd9edfb41666c35b15e1_Project-p-1080.webp);
+    background: url(64d3dd9edfb41666c35b15e1_Project-p-1080.webp);
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -823,7 +823,7 @@ video{
         margin-top:9vh;
     }
     .right1 p{
-        background-image: url(/64d3dd9edfb41666c35b15d1_Holding_thumb-p-500.webp);
+        background-image: url(64d3dd9edfb41666c35b15d1_Holding_thumb-p-500.webp);
         background-position: center;
         background-size: cover;
         height: 25vh;
