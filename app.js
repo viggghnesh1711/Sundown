@@ -172,7 +172,7 @@ navcancel.addEventListener("click",function(){
 })
 var load = document.querySelector(".loader")
 setInterval(function(){
-     load.style.top="-200%"
+     load.style.top="-100%";
 },4300)
 
 
